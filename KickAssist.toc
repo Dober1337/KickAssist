@@ -1,0 +1,8 @@
+## Interface: 120100
+## Title: KickAssist
+## Notes: Koordiniert Interrupt-Zuweisungen per Raid-Symbol in 5er-Gruppen (Mythic+)
+## Author: Dober
+## Version: 0.1
+## SavedVariablesPerCharacter: KickAssistDB
+
+KickAssist.lua
