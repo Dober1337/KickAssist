@@ -1,3 +1,4 @@
+## X-Wago-ID: EGPaXeN1
 ## Interface: 120100
 ## Title: KickAssist
 ## Notes: Koordiniert Interrupt-Zuweisungen per Raid-Symbol in 5er-Gruppen (Mythic+)
